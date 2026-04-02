@@ -1,4 +1,4 @@
-# Sindirim ve Boşaltim Sistemi 
+# Unity - Sindirim ve Boşaltım Sistemi 
 
 ## Proje Amaci
 
