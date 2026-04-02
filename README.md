@@ -6,7 +6,7 @@ Bu proje, sindirim ve bosaltim sistemini Unity ortaminda gorsel ve etkilesimli o
 
 ## Genel Bilgi
 
-Proje Blender da çizimmleri yapılarak Unity ile geliştirilmiştir ve 3D modeller, sahneler ve video içerikleri kullanilarak eğitsel bir deneyim sunar.
+Proje Blender da çizimleri yapılarak Unity ile geliştirilmiştir ve 3D modeller, sahneler ve video içerikleri kullanilarak eğitsel bir deneyim sunar.
 
 ## Gereksinimler
 
