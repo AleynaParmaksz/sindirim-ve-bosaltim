@@ -1,4 +1,4 @@
-# Sindirim ve Bosaltim Sistemi 
+# Sindirim ve Boşaltim Sistemi 
 
 ## Proje Amaci
 
