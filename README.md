@@ -1,4 +1,4 @@
-# Sindirim ve Bosaltim
+# Sindirim ve Bosaltim Sistemi 
 
 ## Proje Amaci
 
@@ -6,7 +6,7 @@ Bu proje, sindirim ve bosaltim sistemini Unity ortaminda gorsel ve etkilesimli o
 
 ## Genel Bilgi
 
-Proje Unity ile gelistirilmistir ve 3B modeller, sahneler ve video icerikleri kullanilarak egitsel bir deneyim sunar.
+Proje Blender da çizimmleri yapılarak Unity ile geliştirilmiştir ve 3D modeller, sahneler ve video içerikleri kullanilarak eğitsel bir deneyim sunar.
 
 ## Gereksinimler
 
